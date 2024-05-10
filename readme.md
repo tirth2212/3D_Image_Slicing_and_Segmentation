@@ -54,7 +54,8 @@ Visualization Using XOR Operations:
 
 Implements XOR operations to visually compare and contrast the differences between the original, enhanced, and segmented images, providing insight into the effectiveness of the processing steps.
 
-
+Result:
+![Result](https://github.com/tirth2212/3D_Image_Slicing_and_Segmentation/blob/main/image.png)
 
 To run the code, 
 Update the Image Path, Images Folder and Mask Folder path and run the cells.
